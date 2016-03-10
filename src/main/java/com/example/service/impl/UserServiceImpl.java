@@ -34,5 +34,5 @@ public class UserServiceImpl implements UserService {
 	        res.put("type", "西楚霸王");  
 	        res.put("date", "公元前232年―公元前202年");  
 	        return res;  
-	    }  
+	    }
 }
